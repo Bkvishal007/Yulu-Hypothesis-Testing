@@ -1,9 +1,5 @@
 # Yulu-Hypothesis-Testing
 A data-driven analysis of Yulu's bike-sharing operations using statistical hypothesis testing. The project applies t-tests, ANOVA, and chi-square tests to uncover usage patterns and generate actionable business insights through Python and visualization tools.
-# 📊 Yulu Business Case – Hypothesis Testing Analysis
-
-This project explores a real-world business scenario involving **Yulu**, a bike-sharing service, to uncover actionable insights through statistical hypothesis testing.
-
 ## Objective
 
 The goal is to analyze Yulu’s operational data and validate key business assumptions using statistical techniques including:
